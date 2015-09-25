@@ -3,7 +3,8 @@ import random
 
 def main():
   print "welcome to math facts!"
-  print "do you want to do multiplication or division?"
+  print "do you want to do:"
+  print "a)ddition or s)ubtraction"
   print "m)ultiplication or d)ivision"
   choice = raw_input()   
   num_questions = 2
